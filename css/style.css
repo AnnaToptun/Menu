@@ -1,0 +1,93 @@
+*{
+    padding: 0px;  
+    font-family: 'Space Grotesk', sans-serif;
+    box-sizing: border-box;
+    max-width: 2500px;
+    
+}
+
+body{
+    background-image: url(/Meat_products_Roast_457899.jpg);
+    margin: 150px;
+}
+.title-name{
+    font-size: 50px;
+    color: #070000;
+    font-weight: 700;
+    text-align: center;
+    background-color: #ffffff7c;
+    width: 800px;
+    border: 10px solid #ffffff;
+}
+.block-cat{
+    background-color: #ffffff7c;
+    text-align: center;
+    color: black;
+
+}
+.block-pizza{
+    box-sizing: border-box;
+    min-width: 400px;
+    height: 400px;
+    width: 400px;
+    font-size: 30px;
+    font-weight: 700;
+    border: 10px solid #ffffff;
+    background-image: url(/img/pizza_PNG44090.png);
+    transition: 1s;
+}
+
+.block-salad{
+    box-sizing: border-box;
+    transition: 1s;
+    min-width: 400px;
+    height: 400px;
+    width: 400px;
+    font-size: 30px;
+    font-weight: 700;
+    border: 10px solid #ffffff;
+    background-image: url(/img/unnamed\ \(1\).png);
+}
+.block-cake{
+    box-sizing: border-box;
+    transition: 1s;
+    min-width: 400px;
+    height: 400px;
+    width: 400px;
+    font-size: 30px;
+    font-weight: 700;
+    border: 10px solid #ffffff;
+    background-image: url(/img/unnamed.png);
+}
+.block-drink{
+    box-sizing: border-box;
+    transition: 1s;
+    min-width: 400px;
+    height: 400px;
+    width: 400px;
+    font-size: 30px;
+    font-weight: 700;
+    border: 10px solid #ffffff;
+    background-image: url(/img/shokolad.gif);
+}
+
+.block-cake:hover{
+    background-color: rgb(255, 0, 85);
+    transition: 0.3s;
+}
+.block-pizza:hover{
+    background-color: rgb(255, 102, 0);
+    transition: 0.3s;
+}.block-drink:hover{
+    background-color: rgb(110, 52, 14);
+    transition: 0.3s;
+}
+.block-salad:hover{
+    background-color: rgb(9, 223, 20);
+    transition: 0.3s;
+}
+table{
+   
+    
+    background-color: #ffffff59;
+}

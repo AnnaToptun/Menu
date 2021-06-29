@@ -1,0 +1,94 @@
+*{
+    padding: 0px;  
+    font-family: 'Space Grotesk', sans-serif;
+    box-sizing: border-box;
+    max-width: 2500px;
+    margin: 0px;
+}
+
+body{
+    background-image: url(/Meat_products_Roast_457899.jpg);
+    margin: 15px;
+}
+.title-name{
+    font-size: 50px;
+    color: #070000;
+    font-weight: 700;
+    text-align: center;
+    background-color: #ffffff7c;
+    width: 800px;
+    border: 10px solid #ffffff;
+    margin-left: 120px;
+    margin-bottom: 25px;
+}
+.block-cat{
+    background-color: #ffffff7c;
+    text-align: center;
+    color: black;
+
+}
+.block-pizza{
+    font-size: 20px;
+    background-color: #ffffff;
+    margin-left: 25px;  
+}
+.img-out{
+   width: 200px;
+   
+    margin-left: 25px;
+    border: 5px solid #ffffff;
+}
+.image-in{
+    height: 200px;
+    border: 5px solid #ffffff;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.text{
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #ffffff;
+    text-align: justify;
+    margin: 15px;
+    margin-left: 0px;
+}
+.ingid-and-cook{
+    font-size: 20px;
+    text-align: justify;
+    background-color: #ffffff;
+}
+details{
+    background-color: #704411a1;
+    border: 5px solid #ffffff;
+
+}
+.block-for-flex{
+    display: flex;
+}
+.right-block{
+    margin-left: 25px;
+}
+.for-lists{
+    margin-left: 25px;
+    font-size: 16px;
+   margin-top: 25px;
+    background-color: #ffffff;
+   
+}
+.scroll-in-body{
+    overflow: scroll;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 500px; /* Высота блока */
+    padding:  5px; /* Поля вокруг текста */
+    border: solid 1px rgba(0, 0, 0, 0); 
+}
+.come-back{
+    background-color: #ffffff7c;
+    margin-left: 25px;
+    margin-top: 25px;
+    border: 5px solid #ffffff;
+    font-size: 25px;
+    color: #000000;
+    text-align: center;
+}
